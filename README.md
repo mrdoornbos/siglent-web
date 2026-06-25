@@ -80,3 +80,7 @@ acquisition, cursors, and save/recall, plus a raw SCPI input.
   or FFT function from the SCPI box, but turning math off needs the front-panel
   Math key, so the web UI does not include a math panel.
 - FFT window names on this model are abbreviated: RECT, HANN, HAMM, FLATTOP.
+
+## License
+
+GNU General Public License v3.0 or later. See [LICENSE](LICENSE).

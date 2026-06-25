@@ -2,6 +2,8 @@
 name = "siglent-scope"
 version = "0.1.0"
 description = "Screen mirror, data capture, and control for Siglent SDS1202X-E over USB on macOS"
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE"]
 requires-python = ">=3.11"
 dependencies = [
     "pyvisa>=1.14",
