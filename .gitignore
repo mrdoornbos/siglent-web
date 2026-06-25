@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Ignore all .md files
+*.md
+
+# But explicitly keep README.md (and README.MD, etc.)
+!README.md
+!README.MD
